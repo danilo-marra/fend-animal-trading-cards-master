@@ -1,0 +1,29 @@
+/* add your CSS here */
+img {
+  width: 300px;
+  padding: 5px 0;
+}
+
+.fato-interessante{
+  font-style: italic;
+}
+
+.titulo-rotulo {
+  font-weight: bold;
+}
+
+ul li {
+  list-style: none;
+}
+
+#conteudo {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 2px 2px 6px 5px #ccc;
+}
+
+#informacoes-complementares {
+  border: 1px solid #ccc;
+  padding: 15px;
+}
